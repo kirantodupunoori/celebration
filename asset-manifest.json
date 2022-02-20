@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/gender-reveal/static/css/main.23745c0f.css",
-    "main.js": "/gender-reveal/static/js/main.12841308.js",
+    "main.css": "/gender-reveal/static/css/main.e1698232.css",
+    "main.js": "/gender-reveal/static/js/main.a0d9d8dd.js",
     "static/js/787.ce1f1cac.chunk.js": "/gender-reveal/static/js/787.ce1f1cac.chunk.js",
-    "static/media/invitation.png": "/gender-reveal/static/media/invitation.004b8837fcbc643aef20.png",
+    "static/media/two.png": "/gender-reveal/static/media/two.c3743f17e117bd40bdaa.png",
+    "static/media/girl.png": "/gender-reveal/static/media/girl.fc13e9c4409040fd44c9.png",
+    "static/media/men.JPG": "/gender-reveal/static/media/men.f14bf5d6d9859f293755.JPG",
+    "static/media/gender-reveal.PNG": "/gender-reveal/static/media/gender-reveal.b12a53e9c264bfcd35c6.PNG",
+    "static/media/event-hightligts.PNG": "/gender-reveal/static/media/event-hightligts.99cf79fc8afa466cd202.PNG",
     "index.html": "/gender-reveal/index.html",
-    "main.23745c0f.css.map": "/gender-reveal/static/css/main.23745c0f.css.map",
-    "main.12841308.js.map": "/gender-reveal/static/js/main.12841308.js.map",
+    "main.e1698232.css.map": "/gender-reveal/static/css/main.e1698232.css.map",
+    "main.a0d9d8dd.js.map": "/gender-reveal/static/js/main.a0d9d8dd.js.map",
     "787.ce1f1cac.chunk.js.map": "/gender-reveal/static/js/787.ce1f1cac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23745c0f.css",
-    "static/js/main.12841308.js"
+    "static/css/main.e1698232.css",
+    "static/js/main.a0d9d8dd.js"
   ]
 }
